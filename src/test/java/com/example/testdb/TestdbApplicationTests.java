@@ -24,7 +24,7 @@ class TestdbApplicationTests {
 	void contextLoads() {
 	}
 
-
+}
 	// @Mock
 	// private Repository repo;
 
@@ -72,4 +72,4 @@ class TestdbApplicationTests {
 	// 	verify(repo, times(1)).save(any(Messages.class));
 	// }
 
-}
+// }
