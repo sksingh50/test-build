@@ -22,6 +22,7 @@ Repository repo;
 
 
     //http://localhost:8080/api/testDb/get
+    //http://localhost:8080/api/testDb/get
     @GetMapping("/get")
     public ResponseEntity< List<Messages>> getAll(){
 
